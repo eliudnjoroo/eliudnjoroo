@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @eliudnjoroo
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m eliudnjoroo
+- 👀 I’m interested in java, sql and sqlite projects 
+- 🌱 I’m currently learning android applications and remote database connection 
+- 💞️ I’m looking to collaborate on java programming 
+- 📫 How to reach me call or text via sms or WhatsApp @ +254704935355
+- email me @ eliudnjoroo@gmail.com
 
 <!---
 eliudnjoroo/eliudnjoroo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
