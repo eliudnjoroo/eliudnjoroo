@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate on java programming 
 - 📫 How to reach me call or text via sms or WhatsApp @ +254704935355
 - email me @ eliudnjoroo@gmail.com
+- linkdn profile https://www.linkedin.com/in/eliud-njoroo-36348526b/
 
 <!---
 eliudnjoroo/eliudnjoroo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
