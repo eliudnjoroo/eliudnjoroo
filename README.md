@@ -5,8 +5,4 @@
 - 📫 How to reach me call or text via sms or WhatsApp @ +254704935355
 - email me @ eliudnjoroo@gmail.com
 - linkdn profile https://www.linkedin.com/in/eliud-njoroo-36348526b/
-
-<!---
-eliudnjoroo/eliudnjoroo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![images](https://github.com/user-attachments/assets/79564b74-2541-451a-adac-e8adff10b38b)
