@@ -1,6 +1,6 @@
-<a href="https://www.linkedin.com/in/eliud-njoroo-36348526b">![images (1)](https://github.com/user-attachments/assets/6694d350-7a28-4c2b-8f00-dcadf7493274)
-<h1>👋 you wanna reach me 🤙 contact eliud via email, WhatsApp or message</h1> 
-<ul>
+<a href="https://www.linkedin.com/in/eliud-njoroo-36348526b" align="center">![images (1)](https://github.com/user-attachments/assets/6694d350-7a28-4c2b-8f00-dcadf7493274)
+<h1 align="center">👋 you wanna reach me 🤙 contact eliud via email, WhatsApp or message</h1> 
+<ul align="center">
   <u><i><li><b>+254 704 935 355</b></i></u></li>
   
   <li><b><i>+254 747 935 355</i></b></li>
