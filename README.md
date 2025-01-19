@@ -26,3 +26,15 @@
 <p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{eliudnjoroo}/count.svg" /></p> 
 </div>
+
+
+![github-contribution-grid-snake](https://github.com/eliudnjoroo/eliudnjoroo/assets/68489612/90b48451-2b17-4735-8d9a-e8af691de7aa)
+<div style="text-align: center;">
+    <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> 
+    <b>eliudnjoroo</b>
+    <img src="https://komarev.com/ghpvc/?username=eliudnjoroo &color=brightgreen" alt="Profile views" style="display:inline-block;">
+</div>
+<br>
+
+ <img src="https://skillicons.dev/icons?i=java,cpp,c,python,html,css,mysql,sqlite,spring"/><br/>
+ <img src="https://go-skill-icons.vercel.app/api/icons?i=git,docker&titles=true"/>
