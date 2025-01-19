@@ -28,9 +28,12 @@
 </div>
 
 
-![github-contribution-grid-snake](https://github.com/eliudnjoroo/assets/68489612/90b48451-2b17-4735-8d9a-e8af691de7aa)
-<div style="text-align: center;">
-    <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> 
+
+
+
+
+<div align="center ">
+    <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> </div>
 <br>
  <img src="https://skillicons.dev/icons?i=java,cpp,c,python,html,css,mysql,sqlite,spring"/><br/>
- <img src="https://go-skill-icons.vercel.app/api/icons?i=git,docker&titles=true"/>
+<div align="center"> <img src="https://go-skill-icons.vercel.app/api/icons?i=git,docker&titles=true"/> </div>
