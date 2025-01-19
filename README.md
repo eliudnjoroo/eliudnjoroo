@@ -20,3 +20,9 @@
   <div align="center">
   <a href="https://github.com/eliudnjoroo/eliudnjoroo"><img alt="eliudnjoroo's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=eliudnjoroo&bg_color=RRGGBBAA&title_color=00abf0&color=00abf0&line=00abf0&point=DEDEDE&hide_border=true&custom_title=Contribution⠀Graph" /></a>
   </div>
+
+<div align="center">
+<br>
+<p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{eliudnjoroo}/count.svg" /></p> 
+</div>
