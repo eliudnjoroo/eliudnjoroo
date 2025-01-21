@@ -33,7 +33,8 @@
 
 
 <div align="center">
-    <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> </div>
+    <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> 
 <br>
- <img src="https://skillicons.dev/icons?i=java,cpp,c,python,html,css,mysql,sqlite,spring"/><br/>
+ <img src="https://skillicons.dev/icons?i=java,cpp,c,python,html,css,mysql,sqlite,spring"/>
+</div><br/>
 <div align="center"> <img src="https://go-skill-icons.vercel.app/api/icons?i=git,docker&titles=true"/> </div>
