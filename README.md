@@ -32,7 +32,7 @@
 
 
 
-<div align="center ">
+<div align="center">
     <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> </div>
 <br>
  <img src="https://skillicons.dev/icons?i=java,cpp,c,python,html,css,mysql,sqlite,spring"/><br/>
