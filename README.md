@@ -1,4 +1,6 @@
-
+<head>
+  <link rel="stylesheet" href="style.css"/>
+</head>
 
 <div align="center"><a href="https://buynowapp1.netlify.app/"><h1>online shop by eliudnjoroo</h1></a></div>
 
