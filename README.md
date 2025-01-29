@@ -1,7 +1,9 @@
 <head>
   <link rel="stylesheet" href="style.css"/>
 </head>
+<body>
 
+  
 <div align="center"><a href="https://buynowapp1.netlify.app/"><h1>online shop by eliudnjoroo</h1></a></div>
 
 <a href="https://www.linkedin.com/in/eliud-njoroo-36348526b" align="center">![images (1)](https://github.com/user-attachments/assets/6694d350-7a28-4c2b-8f00-dcadf7493274)
@@ -44,3 +46,6 @@
  <img src="https://skillicons.dev/icons?i=java,cpp,c,python,html,css,mysql,sqlite,spring"/>
 </div><br/>
 <div align="center"> <img src="https://go-skill-icons.vercel.app/api/icons?i=git,docker&titles=true"/> </div>
+
+
+</body>
