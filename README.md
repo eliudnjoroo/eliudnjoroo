@@ -2,13 +2,14 @@
   <link rel="stylesheet" href="style.css"/>
 </head>
 <body>
-
+<h1>
   <br>
-  click to see <a target= "_blank" href="https://my-accessories.netlify.app/">
-    my ongoing project 
+  <a target= "_blank" href="https://my-accessories.netlify.app/">
+   click here to see my ongoing project 
   </a>
   <br>
-  <br><br><br><br>
+</h1>
+  <br>
 
 <a href="https://www.linkedin.com/in/eliud-njoroo-36348526b" align="center">![images (1)](https://github.com/user-attachments/assets/6694d350-7a28-4c2b-8f00-dcadf7493274)
 <h1 align="center">👋 you wanna reach me 🤙 contact eliud via email, WhatsApp or message</h1> 
