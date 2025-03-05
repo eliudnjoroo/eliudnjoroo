@@ -4,11 +4,10 @@
 <body>
 
   
-<div align="center">
-  <a href="https://my-accessories.netlify.app/">
+
+  <a align="center" href="https://my-accessories.netlify.app/">
     <h1>eliud's ongoing project </h1>
   </a>
-</div>
 
 <a href="https://www.linkedin.com/in/eliud-njoroo-36348526b" align="center">![images (1)](https://github.com/user-attachments/assets/6694d350-7a28-4c2b-8f00-dcadf7493274)
 <h1 align="center">👋 you wanna reach me 🤙 contact eliud via email, WhatsApp or message</h1> 
