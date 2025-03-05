@@ -4,7 +4,7 @@
 <body>
 
   <br>
-  <a href="https://my-accessories.netlify.app/">
+  <a target= "_blank" href="https://my-accessories.netlify.app/">
     eliud's ongoing project 
   </a>
   <br>
