@@ -4,8 +4,8 @@
 <body>
 
   <br>
-  <a target= "_blank" href="https://my-accessories.netlify.app/">
-    eliud's ongoing project 
+  click to see <a target= "_blank" href="https://my-accessories.netlify.app/">
+    my ongoing project 
   </a>
   <br>
   <br><br><br><br>
